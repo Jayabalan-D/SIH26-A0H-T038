@@ -20,10 +20,10 @@
 
 #### Mentor Details
 
-|     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
-|:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
-| Industry       |                     |                       |                         |                          |
+|     Type       |       Mentor Name       |       Designation     |          Department     |       Official Email ID  |
+|:--------------:|:--------------------    |:---------------------:|:-----------------------:|:------------------------ |
+| Academic       | Dr. Sabarish Narayanan B| Assistant Professor   |          ECE            |nb_sabarish@cb.amrita.edu |
+| Industry       |                         |                       |                         |                          |
 
 -----
 
