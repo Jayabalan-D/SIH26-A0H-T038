@@ -15,8 +15,8 @@
 |    Member 2     | DEEPAK KS               | CB.EN.U4ECE24113       |     Male        |      ECE                        |  
 |    Member 3     | Pranav B K V            | CB.EN.U4ECE24136       |     Male        |      ECE                        |  
 |    Member 4     | Barat S V               | CB.EN.U4ECE24105       |     Male        |      ECE                        |   
-|    Member 5     | Harshini Balasubramanian| CB.EN.U4ECE24109       |     Female      |      ECE                        |  
-|    Member 6     | Sudhiksha C	            | CB.EN.U4ECE24121       |     Female      |      ECE                        |   
+|    Member 5     | Harshini Balasubramanian| CB.EN.U4ECE24121       |     Female      |      ECE                        |  
+|    Member 6     | Sudhiksha C	            | CB.EN.U4ECE24109       |     Female      |      ECE                        |   
 
 #### Mentor Details
 
