@@ -34,7 +34,7 @@
 * **Problem Statement ID: SIH26007**
 * **Problem Statement Title: Safe and Efficient Operation of Mine Vehicles in Fog and Low-Visibility Conditions in Open Cast Iron Ore Mines**
 * **Theme / Category: Smart Automation**
-* **Ministry / Organization: Ministry of Steel**, wherever applicable
+* **Ministry / Organization: Ministry of Steel**
 
 #### PS#2
 
