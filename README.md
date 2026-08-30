@@ -11,12 +11,12 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     | DEEPAK KS               |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   |                         | CB.EN.U4ECE24124       |     Male        |      ECE                        |  
+|    Member 2     | DEEPAK KS               | CB.EN.U4ECE24113       |     Male        |      ECE                        |  
+|    Member 3     |                         | CB.EN.U4ECE24136       |     Male        |      ECE                        |  
+|    Member 4     |                         | CB.EN.U4ECE24105       |     Male        |      ECE                        |   
+|    Member 5     |                         | CB.EN.U4ECE24109       |     Female      |      ECE                        |  
+|    Member 6     |                         | CB.EN.U4ECE24121       |     Female      |      ECE                        |   
 
 #### Mentor Details
 
