@@ -5,6 +5,6 @@
   <img src="../assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-T038 - Team <TeamFury> <br/>
+## **SIH26-A0H-T038 - Team Fury**
 
 ### PS#1 
