@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T038 
 ### Team Details
-#### **Team Name** <<Team Fury>> <br/>
+#### **Team Name - Team Fury** 
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
