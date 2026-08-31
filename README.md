@@ -42,6 +42,4 @@
 * **Problem Statement Title: An lntegrated GIS-based Digital Public lnfrastructure
 for Land Governance**
 * **Theme / Category:  SOFTWARE**
-* **Ministry / Organization: Ministry of Rural
-Development
-Smart India Hackathon 2026 • Official Master Catalogue Curated by BlinkNBuild**
+* **Ministry / Organization: Ministry of Rural Development**
